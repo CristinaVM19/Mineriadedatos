@@ -5,3 +5,4 @@
 #### [Ejercicio base de datos](https://github.com/aadrieel/MineriaDeDatos/blob/main/Equipo_3_Ejercicio%20Base%20de%20Datos.pdf)
 #### [Limpieza de datos](https://github.com/aadrieel/MineriaDeDatos/blob/main/Ej_Limpieza_Equipo_3.ipynb)
 #### [Avance 1 PIA](https://github.com/aadrieel/MineriaDeDatos/blob/main/Avance1_PIA_Equipo_3.ipynb)
+#### [Examen 01](https://github.com/aadrieel/MineriaDeDatos/blob/main/Pregunta_Presentaci%C3%B3n_Patrones_Secuenciales_3.pdf)
